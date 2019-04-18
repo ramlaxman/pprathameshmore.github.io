@@ -84,6 +84,13 @@ marginer {
     
 }
 
+.badge-page {
+    align-items: center;
+    text-align: center;
+    padding-bottom: 20%;
+    
+}
+
 .div-margin {
     padding-right: 10%;
     padding-left: 10%;
@@ -145,4 +152,8 @@ body {
 
 .corner-ribbon.blue {
     background: #39d;
+}
+
+.google-play-badge {
+    width: 300px;
 }
