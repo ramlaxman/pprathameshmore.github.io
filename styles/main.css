@@ -14,6 +14,13 @@
     border-radius: 50%;
 }
 
+@media only screen and (max-width: 600px){
+    .round-img {
+    border-radius: 50%;
+    width: 100%;
+}
+}
+
 .home-page {
     background-repeat: none;
     align-items: center;
